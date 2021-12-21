@@ -1,0 +1,2 @@
+from = https://github.com/siddhantbapna/repo1.git
+to = https://github.com/siddhantbapna/repo2.git
